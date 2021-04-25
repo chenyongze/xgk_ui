@@ -1,7 +1,7 @@
 name: xgk_ui
 description: A new flutter plugin project.
 version: 0.0.2
-homepage:
+homepage: https://github.com/chenyongze/xgk_ui
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
